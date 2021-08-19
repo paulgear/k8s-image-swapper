@@ -33,9 +33,8 @@ require (
 	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
 	google.golang.org/genproto v0.0.0-20210617175327-b9e0b3197ced // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.21.2
-	k8s.io/apimachinery v0.21.2
+	k8s.io/api v0.22.1
+	k8s.io/apimachinery v0.22.1
 	k8s.io/client-go v0.21.2 // indirect
 	k8s.io/klog/v2 v2.9.0 // indirect
-	sigs.k8s.io/structured-merge-diff/v4 v4.1.1 // indirect
 )
